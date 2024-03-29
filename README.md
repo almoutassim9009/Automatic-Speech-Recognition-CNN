@@ -1,4 +1,4 @@
-# -Speech_CNN.py
+# Speech_CNN
 
 # Reconnaissance Automatique de la Parole avec CNN
 
