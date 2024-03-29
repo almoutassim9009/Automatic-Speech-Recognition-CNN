@@ -1,7 +1,4 @@
 # -Speech_CNN.py
-Voici une suggestion de description pour votre code GitHub de reconnaissance automatique de la parole avec un réseau de neurones convolutionnel (CNN) :
-
----
 
 # Reconnaissance Automatique de la Parole avec CNN
 
