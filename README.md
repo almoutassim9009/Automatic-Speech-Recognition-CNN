@@ -33,10 +33,4 @@ Ce projet présente une implémentation de la reconnaissance automatique de la p
 
 4. **Évaluation du Modèle**: Une fois l'entraînement terminé, évaluez les performances du modèle en termes de précision de classification.
 
-## Contributions
 
-Les contributions sous forme de pull requests sont les bienvenues. Pour des changements majeurs, veuillez ouvrir une issue pour discuter des modifications proposées.
-
----
-
-N'oubliez pas d'adapter cette description en fonction de la structure et des détails spécifiques de votre projet. Assurez-vous également d'inclure des instructions claires sur la manière d'utiliser votre code et de mentionner toute exigence de licence ou autre considération légale appropriée.
